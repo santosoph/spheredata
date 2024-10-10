@@ -42,10 +42,10 @@ The answers key to analyze the students' obtained score on the FCI.
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Hestenes, D., Wells, M. & Swackhamer, G. Force concept inventory. Phys Teach 30, 141–158 (1992).
+Hestenes, D., Wells, M. & Swackhamer, G. Force concept inventory. *Phys Teach 30*, 141–158 (1992).
 }
 \examples{
 data(FCIkey)

@@ -38,10 +38,10 @@ The answers key to analyze the students' obtained score on the TCE.
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Yeo, S. & Zadnik, M. Introductory thermal concept evaluation: assessing students’ understanding. Phys Teach 39, 496–504 (2001).
+Yeo, S. & Zadnik, M. Introductory thermal concept evaluation: assessing students’ understanding. *Phys Teach 39*, 496–504 (2001).
 }
 \examples{
 data(TCEkey)

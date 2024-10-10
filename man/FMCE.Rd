@@ -59,10 +59,10 @@ Similar with the FCI, the goal of the FMCE is also intended to measure students�
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Thornton, R. K. & Sokoloff, D. R. Assessing student learning of Newton’s laws: The Force and Motion Conceptual Evaluation and the Evaluation of Active Learning Laboratory and Lecture Curricula. Am J Phys 66, 338–352 (1998).
+Thornton, R. K. & Sokoloff, D. R. Assessing student learning of Newton’s laws: The Force and Motion Conceptual Evaluation and the Evaluation of Active Learning Laboratory and Lecture Curricula. *Am J Phys 66*, 338–352 (1998).
 }
 \examples{
 data(FMCE)

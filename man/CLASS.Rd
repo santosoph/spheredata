@@ -48,10 +48,10 @@ The CLASS originally includes 42 attitudinal items measuring students' attitude 
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1, (2024)*. doi: 10.17632/88d7m2fv7p.1
 }
 \references{
-Adams, W. K. et al. New instrument for measuring student beliefs about physics and learning physics: The Colorado Learning Attitudes about Science Survey. Physical Review Special Topics - Physics Education Research 2, 010101 (2006).
+Adams, W. K. et al. New instrument for measuring student beliefs about physics and learning physics: The Colorado Learning Attitudes about Science Survey. *Physical Review Special Topics - Physics Education Research 2*, 010101 (2006).
 }
 \examples{
 data(CLASS)

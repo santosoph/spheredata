@@ -28,10 +28,10 @@ SAAR is developed as a qualitative scoring rubric used to measure students’ sc
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1
 }
 \references{
-Etkina, E. et al. Scientific abilities and their assessment. Physical Review Special Topics - Physics Education Research 2, 020103 (2006).
+Etkina, E. et al. Scientific abilities and their assessment. *Physical Review Special Topics - Physics Education Research 2*, 020103 (2006).
 }
 \examples{
 data(SAAR)

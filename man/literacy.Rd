@@ -14,7 +14,7 @@ In this package, students' literacy was surveyed based on two close-ended items 
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 %\references{
 %

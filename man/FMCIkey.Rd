@@ -42,10 +42,10 @@ The answers key to analyze the students' obtained score on the FMCI.
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Martin, J., Mitchell, J. & Newell, T. Development of a concept inventory for fluid mechanics. in Proceedings of the 33rd Annual Frontiers in Education 2003 vol. 1 T3D (IEEE, 2003).
+Martin, J., Mitchell, J. & Newell, T. Development of a concept inventory for fluid mechanics. in *Proceedings of the 33rd Annual Frontiers in Education 2003 vol. 1 T3D* (IEEE, 2003).
 }
 \examples{
 data(FMCIkey)
