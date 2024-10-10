@@ -18,20 +18,20 @@ SAAR is developed as a qualitative scoring rubric used to measure students’ sc
     \item{\code{SAAR-B7}}{A numeric of the observation using the SAAR on the Rubric B item 7.}
     \item{\code{SAAR-B8}}{A numeric of the observation using the SAAR on the Rubric B item 8.}
     \item{\code{SAAR-B9}}{A numeric of the observation using the SAAR on the Rubric B item 9.}
-    \item{\code{SAAR-F10}}{A numeric of the observation using the SAAR on the Rubric F item 1.}
-    \item{\code{SAAR-F11}}{A numeric of the observation using the SAAR on the Rubric F item 2.}
-    \item{\code{SAAR-G12}}{A numeric of the observation using the SAAR on the Rubric G item 1.}
-    \item{\code{SAAR-G13}}{A numeric of the observation using the SAAR on the Rubric G item 2.}
-    \item{\code{SAAR-G14}}{A numeric of the observation using the SAAR on the Rubric G item 3.}
-    \item{\code{SAAR-G15}}{A numeric of the observation using the SAAR on the Rubric G item 4.}
-    \item{\code{SAAR-G16}}{A numeric of the observation using the SAAR on the Rubric G item 5.}
+    \item{\code{SAAR-F10}}{A numeric of the observation using the SAAR on the Rubric F item 1 (SAAR item 10).}
+    \item{\code{SAAR-F11}}{A numeric of the observation using the SAAR on the Rubric F item 2 (SAAR item 11).}
+    \item{\code{SAAR-G12}}{A numeric of the observation using the SAAR on the Rubric G item 1 (SAAR item 12).}
+    \item{\code{SAAR-G13}}{A numeric of the observation using the SAAR on the Rubric G item 2 (SAAR item 13).}
+    \item{\code{SAAR-G14}}{A numeric of the observation using the SAAR on the Rubric G item 3 (SAAR item 14).}
+    \item{\code{SAAR-G15}}{A numeric of the observation using the SAAR on the Rubric G item 4 (SAAR item 15).}
+    \item{\code{SAAR-G16}}{A numeric of the observation using the SAAR on the Rubric G item 5 (SAAR item 16).}
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1
 }
 \references{
-Etkina, E. et al. Scientific abilities and their assessment. *Physical Review Special Topics - Physics Education Research 2*, 020103 (2006).
+Etkina, E. et al. Scientific abilities and their assessment. \emph{Physical Review Special Topics - Physics Education Research 2}, 020103 (2006).
 }
 \examples{
 data(SAAR)

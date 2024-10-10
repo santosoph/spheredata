@@ -42,10 +42,10 @@ The answers key to analyze the students' obtained score on the RRMCS.
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Rimoldini, L. G. & Singh, C. Student understanding of rotational and rolling motion concepts. *Physical Review Special Topics - Physics Education Research 1*, 010102 (2005).
+Rimoldini, L. G. & Singh, C. Student understanding of rotational and rolling motion concepts. \emph{Physical Review Special Topics - Physics Education Research 1}, 010102 (2005).
 }
 \examples{
 data(RRMCSkey)

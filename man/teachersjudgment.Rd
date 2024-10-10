@@ -15,10 +15,10 @@ In this study, physics teachers are asked to predict the binary state of their s
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Zhu, C. & Urhahne, D. Temporal stability of teachers’ judgment accuracy of students’ motivation, emotion, and achievement. *European Journal of Psychology of Education 36*, 319–337 (2021).
+Zhu, C. & Urhahne, D. Temporal stability of teachers’ judgment accuracy of students’ motivation, emotion, and achievement. \emph{European Journal of Psychology of Education 36}, 319–337 (2021).
 }
 \examples{
 data(teachersjudgment)

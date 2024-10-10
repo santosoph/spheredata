@@ -3,7 +3,7 @@
 \docType{data}
 \title{Students' physics identity dataset}
 \description{
-In this package, students' physics identity was surveyed based on two close-ended items asking the students' study time for physics subject and family recognition when students are studying physics.
+In this study, students' physics identity was surveyed based on two close-ended items asking the students' study time for physics subject and family recognition when they are studying physics.
 }
 \usage{data(physicsidentity)}
 \format{
@@ -14,10 +14,10 @@ In this package, students' physics identity was surveyed based on two close-ende
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). *Mendeley Data, V1*, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Hazari, Z., Sonnert, G., Sadler, P. M. & Shanahan, M. C. Connecting high school physics experiences, outcome expectations, physics identity, and physics career choice: A gender study. *J Res Sci Teach 47*, 978–1003 (2010).
+Hazari, Z., Sonnert, G., Sadler, P. M. & Shanahan, M. C. Connecting high school physics experiences, outcome expectations, physics identity, and physics career choice: A gender study. \emph{J Res Sci Teach 47}, 978–1003 (2010).
 }
 \examples{
 data(physicsidentity)
