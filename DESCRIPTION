@@ -6,9 +6,13 @@ Authors@R: c(
     person("Edi", "Istiyono", role = "ctb"),
     person("Haryanto", "Haryanto", role = "ctb"))
 Maintainer: Purwoko Haryadi Santoso <purwokoharyadisantoso@unsulbar.ac.id>
-Description: A multidimensional dataset of students' performance assessment in high school physics. The SPHERE dataset was collected from 497 students in four public high schools specifically measuring their conceptual understanding, scientific ability, and attitude toward physics [see Santoso et al. (2024) <doi:10.17632/88d7m2fv7p.1>]. The data collection was conducted using some research based assessments extablished by the physics education research community. They include the Force Concept Inventory, the Force and Motion Conceptual Evaluation, the Rotational and Rolling Motion Conceptual Survey, the Fluid Mechanics Concept Inventory, the Mechanical Waves Conceptual Survey, the Thermal Concept Evaluation, the Survey of Thermodynamic Processes and First and Second Laws, the Scientific Abilities Assessment Rubrics, and the Colorado Learning Attitudes about Science Survey. Students' attributes related to gender, age, socioeconomic status, domicile, literacy, physics identity, and test results administered using teachers' developed items are also reported in this dataset.
-URL : https://github.com/santosoph/spheredata
+Description: A multidimensional dataset of students' performance assessment in high school physics. The SPHERE dataset was collected from 497 students in four public high schools specifically measuring their conceptual understanding, scientific ability, and attitude toward physics [see Santoso et al. (2024) <doi:10.17632/88d7m2fv7p.1>]. The data collection was conducted using some research based assessments established by the physics education research community. They include the Force Concept Inventory, the Force and Motion Conceptual Evaluation, the Rotational and Rolling Motion Conceptual Survey, the Fluid Mechanics Concept Inventory, the Mechanical Waves Conceptual Survey, the Thermal Concept Evaluation, the Survey of Thermodynamic Processes and First and Second Laws, the Scientific Abilities Assessment Rubrics, and the Colorado Learning Attitudes about Science Survey. Students' attributes related to gender, age, socioeconomic status, domicile, literacy, physics identity, and test results administered using teachers' developed items are also reported in this dataset.
+BugReports: https://github.com/santosoph/spheredata/issues
+URL: https://github.com/santosoph/spheredata
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
