@@ -1,9 +1,9 @@
 \name{RRMCS}
 \alias{RRMCS}
 \docType{data}
-\title{Rotational and Rolling Motion Conceptual Survey (RRMCS) dataset}
+\title{The Rotational and Rolling Motion Conceptual Survey (RRMCS) dataset}
 \description{
-The RRMCS could be given to explore students’ ideas in various education levels starting in high school to introductory college. It examines students understanding of rotational motion and notions associated with it through 30 multiple choice items.
+The RRMCS could be given to explore students’ ideas in various education levels starting in high school to introductory college. It examines students' understanding of rotational motion and notions associated with it through 30 multiple choice items.
 }
 \usage{data(RRMCS)}
 \format{

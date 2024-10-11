@@ -1,9 +1,9 @@
 \name{SAAR}
 \alias{SAAR}
 \docType{data}
-\title{Scientific Abilities Assessment Rubrics (SAAR) dataset}
+\title{The Scientific Abilities Assessment Rubrics (SAAR) dataset}
 \description{
-SAAR is developed as a qualitative scoring rubric used to measure students’ scientific abilities within the environment of physics laboratory. A rating scale with four categories (1–4) is used in this dataset to describe students’ work (1, missing; 2, inadequate; 3, needs some improvement; and 4, adequate) and devised descriptions of student work that could merit a particular score. In this package, we decide to merely include some abilities (the ability to design & conduct an observational experiment (Rubric B),the ability to communicate scientific ideas (Rubric F), and the ability to collect and analyze experimental data (Rubric G)) since they could be more relevant and important for the high school physics laboratory.
+The SAAR is developed as a qualitative scoring rubric intended to measure students’ scientific abilities within the environment of physics laboratory. A rating scale with four categories (1–4) is used in this dataset to describe the students’ work in the laboratory (1, missing; 2, inadequate; 3, needs some improvement; and 4, adequate) and devised descriptions of student work that could merit a particular score. In this package, we merely measure some abilities from the SAAR since they could be more relevant and important for the high school physics laboratory. They are the ability to design & conduct an observational experiment (Rubric B),the ability to communicate scientific ideas (Rubric F), and the ability to collect and analyze experimental data (Rubric G).
 }
 \usage{data(SAAR)}
 \format{

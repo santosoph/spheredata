@@ -1,9 +1,9 @@
 \name{FCI}
 \alias{FCI}
 \docType{data}
-\title{Force Concept Inventory (FCI) dataset}
+\title{The Force Concept Inventory (FCI) dataset}
 \description{
-The focus of FCI is intended to measure students’ conceptual understanding of Newtonian mechanics. It comprises of 30 multiple-choice items with five possible answers (a key and four distractors).
+The focus of the FCI is intended to measure students’ conceptual understanding of Newtonian mechanics. It comprises of 30 multiple-choice items with five possible responses (a key and four distractors).
 }
 \usage{data(FCI)}
 \format{

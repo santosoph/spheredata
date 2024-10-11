@@ -1,7 +1,7 @@
 \name{TCEkey}
 \alias{TCEkey}
 \docType{data}
-\title{Thermal Concept Evaluation (TCE) key dataset}
+\title{The Thermal Concept Evaluation (TCE) key dataset}
 \description{
 The answers key to analyze the students' obtained score on the TCE.
 }

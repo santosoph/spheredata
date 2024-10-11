@@ -1,7 +1,7 @@
 \name{FCIkey}
 \alias{FCIkey}
 \docType{data}
-\title{Force Concept Inventory (FCI) key dataset}
+\title{The Force Concept Inventory (FCI) key dataset}
 \description{
 The answers key to analyze the students' obtained score on the FCI.
 }

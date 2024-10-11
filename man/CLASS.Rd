@@ -3,7 +3,7 @@
 \docType{data}
 \title{Colorado Learning Attitudes about Science Survey (CLASS) dataset}
 \description{
-The CLASS originally includes 42 attitudinal items measuring students' attitude toward physics learning within five categories of Likert scale ranging from strongly disagree (1) to strongly agree (5). In this package, we have preprocessed the data based on the scoring rule as suggested by Adams et al. (2006).
+The CLASS originally includes 42 attitudinal items measuring students' attitude toward physics learning within five categories of Likert scale ranging from strongly disagree (1) to strongly agree (5). In this package, thirty-six CLASS items have been preprocessed based on the scoring rule as suggested by Adams et al. (2006).
 }
 \usage{data(CLASS)}
 \format{

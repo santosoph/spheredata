@@ -1,7 +1,7 @@
 \name{RRMCSkey}
 \alias{RRMCSkey}
 \docType{data}
-\title{Rotational and Rolling Motion Conceptual Survey (RRMCS) key dataset}
+\title{The Rotational and Rolling Motion Conceptual Survey (RRMCS) key dataset}
 \description{
 The answers key to analyze the students' obtained score on the RRMCS.
 }

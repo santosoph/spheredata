@@ -1,7 +1,7 @@
 \name{STPFASLkey}
 \alias{STPFASLkey}
 \docType{data}
-\title{Survey of Thermodynamic Processes and First and Second Laws (STPFASL) key dataset}
+\title{The Survey of Thermodynamic Processes and First and Second Laws (STPFASL) key dataset}
 \description{
 The answers key to analyze the students' obtained score on the STPFASL.
 }

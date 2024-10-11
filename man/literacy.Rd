@@ -3,7 +3,7 @@
 \docType{data}
 \title{Students' literacy dataset}
 \description{
-In this package, students' literacy was surveyed based on two close-ended items asking the accessibility to available books in their home and digital facilities belong to the students.
+In this package, students' literacy was defined based on two close-ended items asking the accessibility to available books in their home and digital facilities belong to the students.
 }
 \usage{data(literacy)}
 \format{

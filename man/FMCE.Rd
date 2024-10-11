@@ -1,7 +1,7 @@
 \name{FMCE}
 \alias{FMCE}
 \docType{data}
-\title{Force and Motion Conceptual Evaluation (FMCE) dataset}
+\title{The Force and Motion Conceptual Evaluation (FMCE) dataset}
 \description{
 Similar with the FCI, the goal of the FMCE is also intended to measure students’ conceptual understanding of Newtonian mechanics. It comprises of 47 multiple-choice items.
 }

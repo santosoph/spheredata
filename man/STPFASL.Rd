@@ -1,9 +1,9 @@
 \name{STPFASL}
 \alias{STPFASL}
 \docType{data}
-\title{Survey of Thermodynamic Processes and First and Second Laws (STPFASL) dataset}
+\title{The Survey of Thermodynamic Processes and First and Second Laws (STPFASL) dataset}
 \description{
-The STPFASL instrument used 33 items in multiple-choice format that are written based on common student difficulties of thermodynamics as resources in that the incorrect answers to the multiple-choice questions were guided by them.
+The STPFASL instrument demonstrates 33 items in multiple-choice format that are written based on common student difficulties of thermodynamics as resources in that the incorrect answers to the multiple-choice questions were guided by them.
 }
 \usage{data(STPFASL)}
 \format{

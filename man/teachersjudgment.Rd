@@ -3,7 +3,7 @@
 \docType{data}
 \title{Teachers' judgment dataset}
 \description{
-In this study, physics teachers are asked to predict the binary state of their students' performance in the final semester
+In this study, physics teachers are studied to predict the binary state of their students' performance at the final second semester.
 }
 \usage{data(teachersjudgment)}
 \format{
@@ -11,7 +11,7 @@ In this study, physics teachers are asked to predict the binary state of their s
   \describe{
     \item{\code{FINTEST1}}{Students' score on the final test at the first semester using teachers developed items.}
     \item{\code{FINTEST2}}{Students' score on the final test at the second semester using teachers developed items.}
-    \item{\code{TEACHPRED}}{Students' performance state as predicted by physics teachers. 1 = higher ability, 0 = lower ability.}
+    \item{\code{TEACHPRED}}{Students' performance state as predicted by physics teachers intuitively. 1 = higher ability, 0 = lower ability.}
   }
 }
 \source{

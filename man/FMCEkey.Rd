@@ -1,7 +1,7 @@
 \name{FMCEkey}
 \alias{FMCEkey}
 \docType{data}
-\title{Force and Motion Conceptual Evaluation (FMCE) key dataset}
+\title{The Force and Motion Conceptual Evaluation (FMCE) key dataset}
 \description{
 The answers key to analyze the students' obtained score on the FMCE.
 }

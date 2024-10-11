@@ -1,13 +1,13 @@
 \name{demographic}
 \alias{demographic}
 \docType{data}
-\title{Students' demographic dataset}
+\title{Students' demographic of the SPHERE dataset}
 \description{
 This dataset is used to describe the students' contexts participating in the study.
 }
 \usage{data(demographic)}
 \format{
-  A data frame with 497 observations on the following 13 demographic items.
+  A data frame with 497 observations on the following 8 demographic variables.
   \describe{
     \item{\code{STUDID}}{Students' identity. The first letter denotes the school code. The second one coins the students' cohort within schools. Three last numbers for their alphabetical orders.}
     \item{\code{SCH}}{School sample participated in the study.}

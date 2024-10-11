@@ -1,13 +1,13 @@
 \name{FMCIkey}
 \alias{FMCIkey}
 \docType{data}
-\title{Fluid Mechanics Concept Inventory (FMCI) key dataset}
+\title{The Fluid Mechanics Concept Inventory (FMCI) key dataset}
 \description{
 The answers key to analyze the students' obtained score on the FMCI.
 }
 \usage{data(FMCIkey)}
 \format{
-  A data frame of a key record on the following 30 FMCI items.
+  A data frame of a key record on the following 30 FMCI items. The FMCI numbering system starts from the item 3.
   \describe{
     \item{\code{FMCI3}}{A key of the FMCI item number 3.}
     \item{\code{FMCI4}}{A key of the FMCI item number 4.}

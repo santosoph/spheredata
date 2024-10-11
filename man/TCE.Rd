@@ -1,7 +1,7 @@
 \name{TCE}
 \alias{TCE}
 \docType{data}
-\title{Thermal Concept Evaluation (TCE) dataset}
+\title{The Thermal Concept Evaluation (TCE) dataset}
 \description{
 There are 26 multiple-choice items in the TCE examining students’ alternative concepts on heat, temperature, heat transfer and temperature change, and thermal properties. The alternative concepts are discovered based on former studies, and they are used as a researcher basis to construct the TCE distractors.
 }

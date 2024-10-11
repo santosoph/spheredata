@@ -1,7 +1,7 @@
 \name{MWCS}
 \alias{MWCS}
 \docType{data}
-\title{Mechanical Waves Conceptual Survey (MWCS) dataset}
+\title{The Mechanical Waves Conceptual Survey (MWCS) dataset}
 \description{
 The MWCS is the most important test to date that has been designed to evaluate students’ understanding of four main topics in mechanical waves. It encompasses some concepts surrounding propagation, superposition, reflection, and standing waves within 22 multiple choice items.
 }

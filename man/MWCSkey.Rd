@@ -1,7 +1,7 @@
 \name{MWCSkey}
 \alias{MWCSkey}
 \docType{data}
-\title{Mechanical Waves Conceptual Survey (MWCS) key dataset}
+\title{The Mechanical Waves Conceptual Survey (MWCS) key dataset}
 \description{
 The answers key to analyze the students' obtained score on the MWCS.
 }

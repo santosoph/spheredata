@@ -1,13 +1,13 @@
 \name{FMCI}
 \alias{FMCI}
 \docType{data}
-\title{Fluid Mechanics Concept Inventory (FMCI) dataset}
+\title{The Fluid Mechanics Concept Inventory (FMCI) dataset}
 \description{
 The Fluid Mechanics Concept Inventory (FMCI) is developed in 2003 as a conceptual inventory to explore students' ideas of fluid mechanics concepts. The FMCI administers 30 multiple choice items.
 }
 \usage{data(FMCI)}
 \format{
-  A data frame with 497 observations on the following 30 FMCI multiple choice items.
+  A data frame with 497 observations on the following 30 FMCI multiple choice items. The FMCI numbering system starts from the item 3.
   \describe{
     \item{\code{FMCI3}}{A character of the FMCI item number 3.}
     \item{\code{FMCI4}}{A character of the FMCI item number 4.}
