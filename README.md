@@ -1,6 +1,6 @@
 # SPHERE: Students' Performance Data in Physics Education Research
 
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/spheredata)](https://cran.r-project.org/package=spheredata)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/spheredata)](https://CRAN.R-project.org/package=spheredata)
 
 The package contains the SPHERE dataset available at [https://data.mendeley.com/datasets/88d7m2fv7p/1](https://data.mendeley.com/datasets/88d7m2fv7p/1).
 It contains students' conceptual understanding, scientific ability, and scientific attitude on physics.
