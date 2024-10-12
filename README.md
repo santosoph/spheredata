@@ -1,8 +1,8 @@
 # SPHERE: Students' Performance Data in Physics Education Research
 
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/spheredata)](https://cran.r-project.org/web/packages/spheredata/)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/spheredata)](https://cran.r-project.org/package=spheredata)
 
-The package contains SPHERE dataset available at [https://data.mendeley.com/datasets/88d7m2fv7p/1](https://data.mendeley.com/datasets/88d7m2fv7p/1).
+The package contains the SPHERE dataset available at [https://data.mendeley.com/datasets/88d7m2fv7p/1](https://data.mendeley.com/datasets/88d7m2fv7p/1).
 It contains students' conceptual understanding, scientific ability, and scientific attitude on physics.
 We employed some research based assessments (RBAs) to produce SPHERE including the Force Concept Inventory, the Force and Motion Conceptual Evaluation, 
 the Rotational and Rolling Motion Conceptual Survey, the Fluid Mechanics Concept Inventory, the Mechanical Waves Conceptual Survey, 
