@@ -7,7 +7,7 @@ The answers key to analyze the students' obtained score on the RRMCS.
 }
 \usage{data(RRMCSkey)}
 \format{
-  A data frame of a key record on the following 47 RRMCS items.
+  A data frame of a key record on the following 30 RRMCS items.
   \describe{
     \item{\code{RRMCS1}}{A key of the RRMCS item number 1.}
     \item{\code{RRMCS2}}{A key of the RRMCS item number 2.}

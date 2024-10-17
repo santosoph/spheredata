@@ -1,6 +1,6 @@
 Package: spheredata
 Title: Students' Performance Dataset in Physics Education Research (SPHERE)
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Purwoko Haryadi", "Santoso", email = "purwokoharyadisantoso@unsulbar.ac.id", role = c("aut", "cre"), comment = c(ORCID = "<0000-0002-7093-5309>")),
     person("Edi", "Istiyono", role = "ctb"),
