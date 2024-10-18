@@ -1,12 +1,12 @@
-#' Compute the students' score
+#' Compute the students' score of spheredata package
 #'
-#' Compute the students' score as binary/ dichotomous data
+#' Compute the students' score as binary/ dichotomous value. The calculation
+#' method is based on a classical test theory prespective.
 #' @param raw a dataframe of raw response data
 #' @param key a dataframe of answer key
 #'
 #' @return a dataframe of dichotomous format of students' response data
 #' @export binary
-#'
 #' @examples
 #' # Import the FCI score and key data
 #' library(spheredata)
