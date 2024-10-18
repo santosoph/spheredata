@@ -38,13 +38,10 @@ In this data, five PER experts rated the content validity of the TCE.
     \item{\code{TCE26}}{A numeric value of expert rating to the TCE item number 26.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Yeo, S. & Zadnik, M. Introductory thermal concept evaluation: assessing students’ understanding. \emph{Phys Teach 39}, 496–504 (2001).
-}
 \examples{
-data(TCEcontentvalidity)
+library(spheredata)
+# Call the data from spheredata package
+get("TCEcontentvalidity")
+# Open the data
+TCEcontentvalidity
 }
-\keyword{datasets}

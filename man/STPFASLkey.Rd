@@ -7,7 +7,7 @@ The answers key to analyze the students' obtained score on the STPFASL.
 }
 \usage{data(STPFASLkey)}
 \format{
-  A data frame of a key record on the following 33 STPFASL items.
+  A data frame of answer keys on the following 33 STPFASL items.
   \describe{
     \item{\code{STPFASL1}}{A key of the STPFASL item number 1.}
     \item{\code{STPFASL2}}{A key of the STPFASL item number 2.}
@@ -44,13 +44,10 @@ The answers key to analyze the students' obtained score on the STPFASL.
     \item{\code{STPFASL33}}{A key of the STPFASL item number 33.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Brown, B. & Singh, C. Development and validation of a conceptual survey instrument to evaluate students’ understanding of thermodynamics. \emph{Phys Rev Phys Educ Res 17}, 010104 (2021).
-}
 \examples{
-data(STPFASLkey)
+library(spheredata)
+# Call the data from spheredata package
+get("STPFASLkey")
+# Open the data
+STPFASLkey
 }
-\keyword{datasets}

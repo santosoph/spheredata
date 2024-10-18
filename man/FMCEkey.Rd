@@ -7,7 +7,7 @@ The answers key to analyze the students' obtained score on the FMCE.
 }
 \usage{data(FMCEkey)}
 \format{
-  A data frame of a key record on the following 47 FMCE items.
+  A data frame of answer keys on the following 47 FMCE items.
   \describe{
     \item{\code{FMCE1}}{A key of the FMCE item number 1.}
     \item{\code{FMCE2}}{A key of the FMCE item number 2.}
@@ -58,13 +58,10 @@ The answers key to analyze the students' obtained score on the FMCE.
     \item{\code{FMCE47}}{A key of the FMCE item number 47.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Hestenes, D., Wells, M. & Swackhamer, G. Force concept inventory. \emph{Phys Teach 30}, 141–158 (1992).
-}
 \examples{
-data(FMCEkey)
+library(spheredata)
+# Call the data from spheredata package
+get("FMCEkey")
+# Open the data
+FMCEkey
 }
-\keyword{datasets}

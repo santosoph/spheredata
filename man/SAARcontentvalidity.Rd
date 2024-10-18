@@ -28,13 +28,10 @@ In this data, five PER experts rated the content validity of the STPFASL.
     \item{\code{SAAR-G5}}{A numeric of expert rating to the SAAR on the Rubric G item 5.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1
-}
-\references{
-Etkina, E. et al. Scientific abilities and their assessment. \emph{Physical Review Special Topics - Physics Education Research 2}, 020103 (2006).
-}
 \examples{
-data(SAARcontentvalidity)
+library(spheredata)
+# Call the data from spheredata package
+get("SAARcontentvalidity")
+# Open the data
+SAARcontentvalidity
 }
-\keyword{datasets}

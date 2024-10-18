@@ -42,13 +42,10 @@ In this data, five PER experts rated the content validity of the FCI.
     \item{\code{FCI30}}{A numeric value of expert rating to the FCI item number 30.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Hestenes, D., Wells, M. & Swackhamer, G. Force concept inventory. \emph{Phys Teach 30}, 141–158 (1992).
-}
 \examples{
-data(FCIcontentvalidity)
+library(spheredata)
+# Call the data from spheredata package
+get("FCIcontentvalidity")
+# Open the data
+FCIcontentvalidity
 }
-\keyword{datasets}

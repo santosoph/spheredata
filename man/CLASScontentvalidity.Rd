@@ -48,13 +48,10 @@ In this data, five PER experts rated the content validity of the CLASS.
     \item{\code{CLASS42}}{A numeric of expert rating to the CLASS item 42.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1, (2024)}. doi: 10.17632/88d7m2fv7p.1
-}
-\references{
-Adams, W. K. et al. New instrument for measuring student beliefs about physics and learning physics: The Colorado Learning Attitudes about Science Survey. \emph{Physical Review Special Topics - Physics Education Research 2}, 010101 (2006).
-}
 \examples{
-data(CLASScontentvalidity)
+library(spheredata)
+# Call the data from spheredata package
+get("CLASScontentvalidity")
+# Open the data
+CLASScontentvalidity
 }
-\keyword{datasets}

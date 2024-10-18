@@ -7,44 +7,44 @@ The CLASS originally includes 42 attitudinal items measuring students' attitude 
 }
 \usage{data(CLASS)}
 \format{
-  A data frame with 497 observations on the following 36 CLASS items (after preprocessed using the scoring rule).
+  A data frame of students' responses on the following 36 CLASS items (after preprocessed using the scoring rule).
   \describe{
-    \item{\code{CLASS1}}{A significant problem in learning physics is being able to memorize all the information I need to know.}
-    \item{\code{CLASS2}}{When I am solving a physics problem, I try to decide what would be a reasonable value for the answer.}
-    \item{\code{CLASS3}}{I think about the physics I experience in everyday life.}
-    \item{\code{CLASS5}}{After I study a topic in physics and feel that I understand it, I have difficulty solving problems on the same topic.}
-    \item{\code{CLASS6}}{Knowledge in physics consists of many disconnected topics.}
-    \item{\code{CLASS8}}{When I solve a physics problem, I locate an equation that uses the variables given in the problem and plug in the values.}
-    \item{\code{CLASS10}}{There is usually only one correct approach to solving a physics problem.}
-    \item{\code{CLASS11}}{I am not satisfied until I understand why something works the way it does.}
-    \item{\code{CLASS12}}{I cannot learn physics if the teacher does not explain things well in class.}
-    \item{\code{CLASS13}}{I do not expect physics equations to help my understanding of the ideas; they are just for doing calculations.}
-    \item{\code{CLASS14}}{I study physics to learn knowledge that will be useful in my life outside of school.}
-    \item{\code{CLASS15}}{If I get stuck on a physics problem my first try, I usually try to figure out a different way that works.}
-    \item{\code{CLASS16}}{Nearly everyone is capable of understanding physics if they work at it.}
-    \item{\code{CLASS17}}{Understanding physics basically means being able to recall something you’ve read or been shown.}
-    \item{\code{CLASS18}}{There could be two different correct values to a physics problem if I use two different approaches.}
-    \item{\code{CLASS19}}{To understand physics, I discuss it with friends and other students.}
-    \item{\code{CLASS20}}{I do not spend more than five minutes stuck on a physics problem before giving up or seeking help from someone else.}
-    \item{\code{CLASS21}}{If I don’t remember a particular equation needed to solve a problem on an exam, there’s nothing much I can do (legally!) to come up with it.}
-    \item{\code{CLASS22}}{If I want to apply a method used for solving one physics problem to another problem, the problems must involve very similar situations.}
-    \item{\code{CLASS23}}{In doing a physics problem, if my calculation gives a very different from what I’d expect, I’d trust the calculation rather than going back through the problem.}
-    \item{\code{CLASS24}}{In physics, it is important for me to make sense out of formulas before I can use them correctly.}
-    \item{\code{CLASS25}}{I enjoy solving physics problems.}
-    \item{\code{CLASS26}}{In physics, mathematical formulas express meaningful relationships among measurable quantities.}
-    \item{\code{CLASS27}}{It is important for the government to approve new scientific ideas before they can be widely accepted.}
-    \item{\code{CLASS28}}{Learning physics changes my ideas about how the world works.}
-    \item{\code{CLASS29}}{To learn physics, I only need to memorize solutions to sample problems.}
-    \item{\code{CLASS30}}{Reasoning skills used to understand physics can be helpful to me in my everyday life.}
-    \item{\code{CLASS32}}{Spending a lot of time understanding where formulas come from is a waste of time.}
-    \item{\code{CLASS34}}{I can usually figure out a way to solve physics problems.}
-    \item{\code{CLASS35}}{The subject of physics has little relation to what I experience in the real world}
-    \item{\code{CLASS36}}{There are times I solve a physics problem more than one way to help my understanding.}
-    \item{\code{CLASS37}}{To understand physics, I sometimes think about my personal experiences and relate them to the topic being analyzed.}
-    \item{\code{CLASS38}}{It is possible to explain physics ideas without mathematical formulas.}
-    \item{\code{CLASS39}}{When I solve a physics problem, I explicitly think about which physics ideas apply to the problem.}
-    \item{\code{CLASS40}}{If I get stuck on a physics problem, there is no chance I’ll figure it out on my own.}
-    \item{\code{CLASS42}}{When studying physics, I relate the important information to what I already know rather than just memorizing it the way it is presented.}
+    \item{\code{CLASS1}}{A student's response on the CLASS item number 1.}
+    \item{\code{CLASS2}}{A student's response on the CLASS item number 2.}
+    \item{\code{CLASS3}}{A student's response on the CLASS item number 3.}
+    \item{\code{CLASS5}}{A student's response on the CLASS item number 5.}
+    \item{\code{CLASS6}}{A student's response on the CLASS item number 6.}
+    \item{\code{CLASS8}}{A student's response on the CLASS item number 8.}
+    \item{\code{CLASS10}}{A student's response on the CLASS item number 10.}
+    \item{\code{CLASS11}}{A student's response on the CLASS item number 11.}
+    \item{\code{CLASS12}}{A student's response on the CLASS item number 12.}
+    \item{\code{CLASS13}}{A student's response on the CLASS item number 13.}
+    \item{\code{CLASS14}}{A student's response on the CLASS item number 14.}
+    \item{\code{CLASS15}}{A student's response on the CLASS item number 15.}
+    \item{\code{CLASS16}}{A student's response on the CLASS item number 16.}
+    \item{\code{CLASS17}}{A student's response on the CLASS item number 17.}
+    \item{\code{CLASS18}}{A student's response on the CLASS item number 18.}
+    \item{\code{CLASS19}}{A student's response on the CLASS item number 19.}
+    \item{\code{CLASS20}}{A student's response on the CLASS item number 20.}
+    \item{\code{CLASS21}}{A student's response on the CLASS item number 21.}
+    \item{\code{CLASS22}}{A student's response on the CLASS item number 22.}
+    \item{\code{CLASS23}}{A student's response on the CLASS item number 23.}
+    \item{\code{CLASS24}}{A student's response on the CLASS item number 24.}
+    \item{\code{CLASS25}}{A student's response on the CLASS item number 25.}
+    \item{\code{CLASS26}}{A student's response on the CLASS item number 26.}
+    \item{\code{CLASS27}}{A student's response on the CLASS item number 27.}
+    \item{\code{CLASS28}}{A student's response on the CLASS item number 28.}
+    \item{\code{CLASS29}}{A student's response on the CLASS item number 29.}
+    \item{\code{CLASS30}}{A student's response on the CLASS item number 30.}
+    \item{\code{CLASS32}}{A student's response on the CLASS item number 32.}
+    \item{\code{CLASS34}}{A student's response on the CLASS item number 34.}
+    \item{\code{CLASS35}}{A student's response on the CLASS item number 35.}
+    \item{\code{CLASS36}}{A student's response on the CLASS item number 36.}
+    \item{\code{CLASS37}}{A student's response on the CLASS item number 37.}
+    \item{\code{CLASS38}}{A student's response on the CLASS item number 38.}
+    \item{\code{CLASS39}}{A student's response on the CLASS item number 39.}
+    \item{\code{CLASS40}}{A student's response on the CLASS item number 40.}
+    \item{\code{CLASS42}}{A student's response on the CLASS item number 42.}
   }
 }
 \source{
@@ -54,6 +54,9 @@ Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual unders
 Adams, W. K. et al. New instrument for measuring student beliefs about physics and learning physics: The Colorado Learning Attitudes about Science Survey. \emph{Physical Review Special Topics - Physics Education Research 2}, 010101 (2006).
 }
 \examples{
-data(CLASS)
+library(spheredata)
+# Call the data from spheredata package
+get("CLASS")
+# Open the data
+CLASS
 }
-\keyword{datasets}

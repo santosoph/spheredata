@@ -7,7 +7,7 @@ The answers key to analyze the students' obtained score on the TCE.
 }
 \usage{data(TCEkey)}
 \format{
-  A data frame of a key record on the following 26 TCE items.
+  A data frame of answer keys on the following 26 TCE items.
   \describe{
     \item{\code{TCE1}}{A key of the TCE item number 1.}
     \item{\code{TCE2}}{A key of the TCE item number 2.}
@@ -37,13 +37,10 @@ The answers key to analyze the students' obtained score on the TCE.
     \item{\code{TCE26}}{A key of the TCE item number 26.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Yeo, S. & Zadnik, M. Introductory thermal concept evaluation: assessing students’ understanding. \emph{Phys Teach 39}, 496–504 (2001).
-}
 \examples{
-data(TCEkey)
+library(spheredata)
+# Call the data from spheredata package
+get("TCEkey")
+# Open the data
+TCEkey
 }
-\keyword{datasets}

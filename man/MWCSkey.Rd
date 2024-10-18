@@ -33,13 +33,10 @@ The answers key to analyze the students' obtained score on the MWCS.
     \item{\code{MWCS22}}{A key of the MWCS item number 22.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Barniol, P. & Zavala, G. Mechanical waves conceptual survey: Its modification and conversion to a standard multiple-choice test. \emph{Phys Rev Phys Educ Res 12}, 010107 (2016).
-}
 \examples{
-data(MWCSkey)
+library(spheredata)
+# Call the data from spheredata package
+get("MWCSkey")
+# Open the data
+MWCSkey
 }
-\keyword{datasets}

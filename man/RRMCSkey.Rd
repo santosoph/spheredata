@@ -7,7 +7,7 @@ The answers key to analyze the students' obtained score on the RRMCS.
 }
 \usage{data(RRMCSkey)}
 \format{
-  A data frame of a key record on the following 30 RRMCS items.
+  A data frame of answer keys on the following 30 RRMCS items.
   \describe{
     \item{\code{RRMCS1}}{A key of the RRMCS item number 1.}
     \item{\code{RRMCS2}}{A key of the RRMCS item number 2.}
@@ -41,13 +41,10 @@ The answers key to analyze the students' obtained score on the RRMCS.
     \item{\code{RRMCS30}}{A key of the RRMCS item number 30.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Rimoldini, L. G. & Singh, C. Student understanding of rotational and rolling motion concepts. \emph{Physical Review Special Topics - Physics Education Research 1}, 010102 (2005).
-}
 \examples{
-data(RRMCSkey)
+library(spheredata)
+# Call the data from spheredata package
+get("RRMCSkey")
+# Open the data
+RRMCSkey
 }
-\keyword{datasets}

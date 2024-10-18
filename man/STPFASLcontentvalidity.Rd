@@ -45,13 +45,10 @@ In this data, five PER experts rated the content validity of the STPFASL.
     \item{\code{STPFASL33}}{A numeric value of expert rating to the STPFASL item number 33.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Brown, B. & Singh, C. Development and validation of a conceptual survey instrument to evaluate students’ understanding of thermodynamics. \emph{Phys Rev Phys Educ Res 17}, 010104 (2021).
-}
 \examples{
-data(STPFASLcontentvalidity)
+library(spheredata)
+# Call the data from spheredata package
+get("STPFASLcontentvalidity")
+# Open the data
+STPFASLcontentvalidity
 }
-\keyword{datasets}

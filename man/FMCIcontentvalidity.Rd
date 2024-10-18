@@ -7,7 +7,7 @@ In this data, five PER experts rated the content validity of the FMCI.
 }
 \usage{data(FMCIcontentvalidity)}
 \format{
-  A data frame of expert ratings on the content validity of 30 FMCI items. The FMCI numbering system starts from the item 3.
+  A data frame of expert ratings on the content validity of 30 FMCI items.
   \describe{
     \item{\code{ID}}{An anonymized expert identity.}
     \item{\code{FMCI3}}{A numeric value of expert rating to the FMCI item number 3.}
@@ -42,13 +42,10 @@ In this data, five PER experts rated the content validity of the FMCI.
     \item{\code{FMCI32}}{A numeric value of expert rating to the FMCI item number 32.}
   }
 }
-\source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
-}
-\references{
-Martin, J., Mitchell, J. & Newell, T. Development of a concept inventory for fluid mechanics. in \emph{Proceedings of the 33rd Annual Frontiers in Education 2003 vol. 1 T3D} (IEEE, 2003).
-}
 \examples{
-data(FMCIcontentvalidity)
+library(spheredata)
+# Call the data from spheredata package
+get("FMCIcontentvalidity")
+# Open the data
+FMCIcontentvalidity
 }
-\keyword{datasets}

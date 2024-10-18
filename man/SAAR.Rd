@@ -7,7 +7,7 @@ The SAAR is developed as a qualitative scoring rubric intended to measure studen
 }
 \usage{data(SAAR)}
 \format{
-  A data frame with 497 observations on the following 16 SAAR observation items in the physics laboratory.
+  A data frame of students' performance in the physics laboratory measured by the following 16 SAAR observation items.
   \describe{
     \item{\code{SAAR-B1}}{A numeric of the observation using the SAAR on the Rubric B item 1.}
     \item{\code{SAAR-B2}}{A numeric of the observation using the SAAR on the Rubric B item 2.}
@@ -34,6 +34,9 @@ Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual unders
 Etkina, E. et al. Scientific abilities and their assessment. \emph{Physical Review Special Topics - Physics Education Research 2}, 020103 (2006).
 }
 \examples{
-data(SAAR)
+library(spheredata)
+# Call the data from spheredata package
+get("SAAR")
+# Open the data
+SAAR
 }
-\keyword{datasets}
