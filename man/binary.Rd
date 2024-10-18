@@ -2,7 +2,7 @@
 % Please edit documentation in R/binary.R
 \name{binary}
 \alias{binary}
-\title{Compute the students' score}
+\title{Compute the students' score of spheredata package}
 \usage{
 binary(raw, key)
 }
@@ -15,7 +15,8 @@ binary(raw, key)
 a dataframe of dichotomous format of students' response data
 }
 \description{
-Compute the students' score as binary/ dichotomous data
+Compute the students' score as binary/ dichotomous value. The calculation
+method is based on a classical test theory prespective.
 }
 \examples{
 # Import the FCI score and key data

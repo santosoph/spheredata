@@ -3,7 +3,7 @@
 \docType{data}
 \title{Students' demographic of the SPHERE dataset}
 \description{
-This dataset is used to describe the students' contexts participating in the study.
+This dataset is used to describe the students' contexts of this study.
 }
 \usage{data(demographic)}
 \format{
@@ -27,9 +27,10 @@ This dataset is used to describe the students' contexts participating in the stu
 \source{
 Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1, (2024)}. doi: 10.17632/88d7m2fv7p.1
 }
-%\references{
-%}
 \examples{
-data(demographic)
+library(spheredata)
+# Call the data from spheredata package
+get("demographic")
+# Open the data
+demographic
 }
-\keyword{datasets}

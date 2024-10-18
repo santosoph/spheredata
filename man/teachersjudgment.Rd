@@ -21,6 +21,9 @@ Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual unders
 Zhu, C. & Urhahne, D. Temporal stability of teachers’ judgment accuracy of students’ motivation, emotion, and achievement. \emph{European Journal of Psychology of Education 36}, 319–337 (2021).
 }
 \examples{
-data(teachersjudgment)
+library(spheredata)
+# Call the data from spheredata package
+get("teachersjudgment")
+# Open the data
+teachersjudgment
 }
-\keyword{datasets}

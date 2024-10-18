@@ -20,6 +20,9 @@ Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual unders
 %
 %}
 \examples{
-data(literacy)
+library(spheredata)
+# Call the data from spheredata package
+get("literacy")
+# Open the data
+literacy
 }
-\keyword{datasets}

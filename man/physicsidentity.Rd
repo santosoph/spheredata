@@ -20,6 +20,9 @@ Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual unders
 Hazari, Z., Sonnert, G., Sadler, P. M. & Shanahan, M. C. Connecting high school physics experiences, outcome expectations, physics identity, and physics career choice: A gender study. \emph{J Res Sci Teach 47}, 978–1003 (2010).
 }
 \examples{
-data(physicsidentity)
+library(spheredata)
+# Call the data from spheredata package
+get("physicsidentity")
+# Open the data
+physicsidentity
 }
-\keyword{datasets}
