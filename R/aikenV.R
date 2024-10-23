@@ -1,4 +1,4 @@
-#' Compute the Aiken's V
+#' Compute the Aiken's V index of content validity
 #'
 #' Aiken's \eqn{V} is a statistical measure of content validity index on a single
 #' item (Aiken, 1980). This measure could be defined as follow.
@@ -52,17 +52,15 @@ aikenV <- function(data, max_cat, min_cat, CI=0.95){
   n <- colSums(data)
   k <- (max_cat-min_cat)
 
-  V <- ((n/nrow(data))-min_cat)/k
+  V <- round(((n/nrow(data))-min_cat)/k,2)
   z <- qnorm(1-(1-CI)/2)
 
   A <- (2*n*k*V) + z^2
   B <- z*sqrt(4*n*k*V*(1-V)+(z^2))
   C <- 2*(n*k+z^2)
 
-  lV <- (A-B)/C
-  uV <- (A+B)/C
+  lV <- round((A-B)/C,2)
+  uV <- round((A+B)/C,2)
 
-  return(data.frame("AikenV" = V,
-                    "lowerCI" = lV,
-                    "upperCI" = uV))
+  return(data.frame("AikenV" = V, "lowerCI" = lV, "upperCI" = uV))
 }

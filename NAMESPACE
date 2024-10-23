@@ -2,4 +2,5 @@
 
 export(aikenV)
 export(binary)
+export(lawsheCVR)
 importFrom(stats,qnorm)

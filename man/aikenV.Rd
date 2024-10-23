@@ -2,7 +2,7 @@
 % Please edit documentation in R/aikenV.R
 \name{aikenV}
 \alias{aikenV}
-\title{Compute the Aiken's V}
+\title{Compute the Aiken's V index of content validity}
 \usage{
 aikenV(data, max_cat, min_cat, CI = 0.95)
 }
