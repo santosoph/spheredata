@@ -17,9 +17,9 @@
 #' the distribution lies between \eqn{-z} and \eqn{z} (e.g., for a 95%
 #' confidence interval \eqn{z = 1.96}).
 #'
-#' @param data a dataframe of categorical value from expert judgment to the item content validity
-#' @param max_cat a maximum category point of used rating scale
-#' @param min_cat a minimum category point of used rating scale
+#' @param data a dataframe of categorical value from expert judgment to the item content validity.
+#' @param max_cat a maximum category point of used rating scale (the default value is 4).
+#' @param min_cat a minimum category point of used rating scale (the default value is 1).
 #' @param CI the default value of confidence interval is 0.95. It can be set to preferred confidence interval.
 #'
 #' @return a dataframe of content validity index of each item as calculated using the Aiken's formula
@@ -46,9 +46,9 @@
 #'                  item10 = c(4,3,4,4,3,3,4))
 #'
 #'# Compute the Aiken's V
-#'aikenV(df, 4, 1)
+#'aikenV(df)
 
-aikenV <- function(data, max_cat, min_cat, CI=0.95){
+aikenV <- function(data, max_cat=4, min_cat=1, CI=0.95){
   n <- colSums(data)
   k <- (max_cat-min_cat)
 

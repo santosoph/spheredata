@@ -4,14 +4,14 @@
 \alias{lawsheCVR}
 \title{Compute the Lawshe's content validity ratio (CVR)}
 \usage{
-lawsheCVR(data, max_cat, min_cat, method = "max")
+lawsheCVR(data, max_cat = 4, min_cat = 1, method = "max")
 }
 \arguments{
-\item{data}{a dataframe of categorical value from expert judgment to the item content validity}
+\item{data}{a dataframe of categorical value from expert judgment to the item content validity.}
 
-\item{max_cat}{a maximum category point of used rating scale}
+\item{max_cat}{a maximum category point of used rating scale (the default value is 4).}
 
-\item{min_cat}{a minimum category point of used rating scale}
+\item{min_cat}{a minimum category point of used rating scale (the default value is 1).}
 
 \item{method}{a method to determine cutoff value between essential and non-essential items}
 }
@@ -48,7 +48,7 @@ df <- data.frame(item1 = c(3,3,3,4,4,4,3),
                  item10 = c(4,3,4,4,3,3,4))
 
 # Compute the Lawshe's CVR
-lawsheCVR(df, 4, 1)
+lawsheCVR(df)
 }
 \references{
 Gilbert, G.E. & Prion, S. Making Sense of Methods and Measurement: Lawshe's Content Validity Index. \emph{Clinical Simulation in Nursing 12}, 530-531 (2016).

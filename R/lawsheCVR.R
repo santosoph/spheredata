@@ -11,9 +11,9 @@
 #' the minimum value of the used rating scale ("min_cat") as the cutoff
 #' criteria.
 #'
-#' @param data a dataframe of categorical value from expert judgment to the item content validity
-#' @param max_cat a maximum category point of used rating scale
-#' @param min_cat a minimum category point of used rating scale
+#' @param data a dataframe of categorical value from expert judgment to the item content validity.
+#' @param max_cat a maximum category point of used rating scale (the default value is 4).
+#' @param min_cat a minimum category point of used rating scale (the default value is 1).
 #' @param method a method to determine cutoff value between essential and non-essential items
 #'
 #' @return a dataframe of CVR of each item as calculated using the Lawshe's formula
@@ -39,9 +39,9 @@
 #'                  item10 = c(4,3,4,4,3,3,4))
 #'
 #'# Compute the Lawshe's CVR
-#'lawsheCVR(df, 4, 1)
+#'lawsheCVR(df)
 
-lawsheCVR <- function(data, max_cat, min_cat, method = "max"){
+lawsheCVR <- function(data, max_cat=4, min_cat=1, method = "max"){
 
   if (method == "max"){
     cutoff <- max_cat/2
