@@ -17,6 +17,7 @@
 #' binary(FCI, FCIkey)
 
 binary <- function(raw, key){
-  dichotomous <- t(apply(raw,1,function(X){ifelse(X==(key),1,0)}))
+  dichotomous <- data.frame(t(apply(raw,1,function(X){ifelse(X==(key),1,0)})))
+  colnames(dichotomous) <- names(raw)
   dichotomous
 }

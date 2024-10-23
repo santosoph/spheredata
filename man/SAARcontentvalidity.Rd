@@ -10,22 +10,22 @@ In this data, five PER experts rated the content validity of the STPFASL.
   A data frame of expert ratings on the content validity of 16 SAAR observation items.
   \describe{
     \item{\code{ID}}{An anonymized expert identity.}
-    \item{\code{SAAR-B1}}{A numeric of expert rating to the SAAR on the Rubric B item 1.}
-    \item{\code{SAAR-B2}}{A numeric of expert rating to the SAAR on the Rubric B item 2.}
-    \item{\code{SAAR-B3}}{A numeric of expert rating to the SAAR on the Rubric B item 3.}
-    \item{\code{SAAR-B4}}{A numeric of expert rating to the SAAR on the Rubric B item 4.}
-    \item{\code{SAAR-B5}}{A numeric of expert rating to the SAAR on the Rubric B item 5.}
-    \item{\code{SAAR-B6}}{A numeric of expert rating to the SAAR on the Rubric B item 6.}
-    \item{\code{SAAR-B7}}{A numeric of expert rating to the SAAR on the Rubric B item 7.}
-    \item{\code{SAAR-B8}}{A numeric of expert rating to the SAAR on the Rubric B item 8.}
-    \item{\code{SAAR-B9}}{A numeric of expert rating to the SAAR on the Rubric B item 9.}
-    \item{\code{SAAR-F1}}{A numeric of expert rating to the SAAR on the Rubric F item 1.}
-    \item{\code{SAAR-F2}}{A numeric of expert rating to the SAAR on the Rubric F item 2.}
-    \item{\code{SAAR-G1}}{A numeric of expert rating to the SAAR on the Rubric G item 1.}
-    \item{\code{SAAR-G2}}{A numeric of expert rating to the SAAR on the Rubric G item 2.}
-    \item{\code{SAAR-G3}}{A numeric of expert rating to the SAAR on the Rubric G item 3.}
-    \item{\code{SAAR-G4}}{A numeric of expert rating to the SAAR on the Rubric G item 4.}
-    \item{\code{SAAR-G5}}{A numeric of expert rating to the SAAR on the Rubric G item 5.}
+    \item{\code{SAARB1}}{A numeric of expert rating on the SAAR Rubric B item 1.}
+    \item{\code{SAARB2}}{A numeric of expert rating on the SAAR Rubric B item 2.}
+    \item{\code{SAARB3}}{A numeric of expert rating on the SAAR Rubric B item 3.}
+    \item{\code{SAARB4}}{A numeric of expert rating on the SAAR Rubric B item 4.}
+    \item{\code{SAARB5}}{A numeric of expert rating on the SAAR Rubric B item 5.}
+    \item{\code{SAARB6}}{A numeric of expert rating on the SAAR Rubric B item 6.}
+    \item{\code{SAARB7}}{A numeric of expert rating on the SAAR Rubric B item 7.}
+    \item{\code{SAARB8}}{A numeric of expert rating on the SAAR Rubric B item 8.}
+    \item{\code{SAARB9}}{A numeric of expert rating on the SAAR Rubric B item 9.}
+    \item{\code{SAARF10}}{A numeric of expert rating on the SAAR Rubric F item 1.}
+    \item{\code{SAARF11}}{A numeric of expert rating on the SAAR Rubric F item 2.}
+    \item{\code{SAARG12}}{A numeric of expert rating on the SAAR Rubric G item 1.}
+    \item{\code{SAARG13}}{A numeric of expert rating on the SAAR Rubric G item 2.}
+    \item{\code{SAARG14}}{A numeric of expert rating on the SAAR Rubric G item 3.}
+    \item{\code{SAARG15}}{A numeric of expert rating on the SAAR Rubric G item 4.}
+    \item{\code{SAARG16}}{A numeric of expert rating on the SAAR Rubric G item 5.}
   }
 }
 \examples{

@@ -9,22 +9,22 @@ The SAAR is developed as a qualitative scoring rubric intended to measure studen
 \format{
   A data frame of students' performance in the physics laboratory measured by the following 16 SAAR observation items.
   \describe{
-    \item{\code{SAAR-B1}}{A numeric of the observation using the SAAR on the Rubric B item 1.}
-    \item{\code{SAAR-B2}}{A numeric of the observation using the SAAR on the Rubric B item 2.}
-    \item{\code{SAAR-B3}}{A numeric of the observation using the SAAR on the Rubric B item 3.}
-    \item{\code{SAAR-B4}}{A numeric of the observation using the SAAR on the Rubric B item 4.}
-    \item{\code{SAAR-B5}}{A numeric of the observation using the SAAR on the Rubric B item 5.}
-    \item{\code{SAAR-B6}}{A numeric of the observation using the SAAR on the Rubric B item 6.}
-    \item{\code{SAAR-B7}}{A numeric of the observation using the SAAR on the Rubric B item 7.}
-    \item{\code{SAAR-B8}}{A numeric of the observation using the SAAR on the Rubric B item 8.}
-    \item{\code{SAAR-B9}}{A numeric of the observation using the SAAR on the Rubric B item 9.}
-    \item{\code{SAAR-F10}}{A numeric of the observation using the SAAR on the Rubric F item 1 (SAAR item 10).}
-    \item{\code{SAAR-F11}}{A numeric of the observation using the SAAR on the Rubric F item 2 (SAAR item 11).}
-    \item{\code{SAAR-G12}}{A numeric of the observation using the SAAR on the Rubric G item 1 (SAAR item 12).}
-    \item{\code{SAAR-G13}}{A numeric of the observation using the SAAR on the Rubric G item 2 (SAAR item 13).}
-    \item{\code{SAAR-G14}}{A numeric of the observation using the SAAR on the Rubric G item 3 (SAAR item 14).}
-    \item{\code{SAAR-G15}}{A numeric of the observation using the SAAR on the Rubric G item 4 (SAAR item 15).}
-    \item{\code{SAAR-G16}}{A numeric of the observation using the SAAR on the Rubric G item 5 (SAAR item 16).}
+    \item{\code{SAARB1}}{An observation using SAAR on the Rubric B item 1.}
+    \item{\code{SAARB2}}{An observation using SAAR on the Rubric B item 2.}
+    \item{\code{SAARB3}}{An observation using SAAR on the Rubric B item 3.}
+    \item{\code{SAARB4}}{An observation using SAAR on the Rubric B item 4.}
+    \item{\code{SAARB5}}{An observation using SAAR on the Rubric B item 5.}
+    \item{\code{SAARB6}}{An observation using SAAR on the Rubric B item 6.}
+    \item{\code{SAARB7}}{An observation using SAAR on the Rubric B item 7.}
+    \item{\code{SAARB8}}{An observation using SAAR on the Rubric B item 8.}
+    \item{\code{SAARB9}}{An observation using SAAR on the Rubric B item 9.}
+    \item{\code{SAARF10}}{An observation using SAAR on the Rubric F item 1 (SAAR item 10).}
+    \item{\code{SAARF11}}{An observation using SAAR on the Rubric F item 2 (SAAR item 11).}
+    \item{\code{SAARG12}}{An observation using SAAR on the Rubric G item 1 (SAAR item 12).}
+    \item{\code{SAARG13}}{An observation using SAAR on the Rubric G item 2 (SAAR item 13).}
+    \item{\code{SAARG14}}{An observation using SAAR on the Rubric G item 3 (SAAR item 14).}
+    \item{\code{SAARG15}}{An observation using SAAR on the Rubric G item 4 (SAAR item 15).}
+    \item{\code{SAARG16}}{An observation using SAAR on the Rubric G item 5 (SAAR item 16).}
   }
 }
 \source{
